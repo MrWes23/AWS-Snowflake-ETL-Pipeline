@@ -8,7 +8,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-   The purpose of this project was to simulate an automated pipeline work environment in which files are streamed into a S3 bucket folder, transformed and automatically copied/loaded into tables stored in snowflake. This was done by implementing AWS glue ETL transformations and S3 bucket event notifications in conjunction with the snowpipe functionality of snowflake. The data used was the Yelp open data set. This is a subset of thier businesses, reviews, and user data for use in personal, educational, and academic purposes. Towards the end of the project are hypothetical tasks one might be given related to the tables created.  
+   The purpose of this project was to simulate an automated pipeline work environment in which files are streamed into a S3 bucket folder, transformed and automatically copied/loaded into tables stored in snowflake. This was done by implementing AWS glue ETL transformations and S3 bucket event notifications in conjunction with the snowpipe functionality of snowflake. The data used was the Yelp open data set. This is a subset of their businesses, reviews, and user data for use in personal, educational, and academic purposes. Towards the end of the project are hypothetical tasks one might be given related to the tables created.  
    
 ## Diagram/Architecture
    
